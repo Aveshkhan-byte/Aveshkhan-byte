@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Avesh Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Pursuing B.tech in (AIDS)</h3>
 
 - 🌱 I’m currently learning **html**
 
